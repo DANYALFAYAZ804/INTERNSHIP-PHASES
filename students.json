@@ -1,0 +1,32 @@
+[
+  {
+    "roll_no": 1,
+    "name": "Danyal Fayaz",
+    "grade": "A",
+    "courses": [
+      "S",
+      "D",
+      "A"
+    ]
+  },
+  {
+    "roll_no": 2,
+    "name": "Khan",
+    "grade": "A",
+    "courses": [
+      "N",
+      "A",
+      "M"
+    ]
+  },
+  {
+    "roll_no": 3,
+    "name": "Naeem",
+    "grade": "B",
+    "courses": [
+      "E",
+      "Q",
+      "W"
+    ]
+  }
+]
